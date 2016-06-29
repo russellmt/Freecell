@@ -15,4 +15,4 @@ Finally, I ended up adding a static class, GameController in order to save time 
 In the end, this implementation did not use the suggested 2D list of cards, but instead maintained a similar set of data structures in a more separated manner.
 I had to add some additional messy code from Stack Overflow to allow these programs to run from either a self-contained jar OR from the class files. Loading all images in a jar directory (not actual files) was particularly tricky.
 
-UPDATE: the drop logic seems to be broken now, rendering the game unplayable. A fix will come soon.
+UPDATE 6/28/2016: the drop logic seems to be broken now, rendering the game unplayable. A fix will come soon.
